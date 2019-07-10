@@ -1,5 +1,7 @@
 # Expressio Sequel
 
+[![CircleCI](https://circleci.com/gh/hugw/expressio-sequel/tree/master.svg?style=svg&circle-token=addcf4d14595d74e421441d6c882c35adb54322c)](https://circleci.com/gh/hugw/expressio-sequel/tree/master)
+
 ## Install
 
 ```
